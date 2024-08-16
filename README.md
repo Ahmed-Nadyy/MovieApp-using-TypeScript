@@ -1,5 +1,5 @@
 # MovieApp-using-TypeScript
-
+try it : https://ahmed-nady-movie-app.netlify.app/
 ## Overview
 
 The **MovieApp-using-TypeScript** is a React-based web app that fetches and displays trending movies and TV shows using The Movie Database (TMDb) API. The application features a modern and responsive design powered by Material-UI (MUI) and interactive elements managed with Mightymeld.
