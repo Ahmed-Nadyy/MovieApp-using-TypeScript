@@ -1,8 +1,8 @@
-# Movie Application
+# MovieApp-using-TypeScript
 
 ## Overview
 
-The **Movie Application** is a React-based web app that fetches and displays trending movies and TV shows using The Movie Database (TMDb) API. The application features a modern and responsive design powered by Material-UI (MUI) and interactive elements managed with Mightymeld.
+The **MovieApp-using-TypeScript** is a React-based web app that fetches and displays trending movies and TV shows using The Movie Database (TMDb) API. The application features a modern and responsive design powered by Material-UI (MUI) and interactive elements managed with Mightymeld.
 
 ## Screenshot
 
@@ -18,6 +18,7 @@ The **Movie Application** is a React-based web app that fetches and displays tre
 
 ## Technologies Used
 
+- TypeScript
 - React
 - Material-UI (MUI)
 - Mightymeld
