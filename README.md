@@ -6,7 +6,7 @@ The **MovieApp-using-TypeScript** is a React-based web app that fetches and disp
 
 ## Screenshot
 
-![Movie Application Screenshot](./src/assets/images/Screenshot.png) your screenshot -->
+![Movie Application Screenshot](./src/assets/images/Screenshot.png) 
 
 ## Features
 
